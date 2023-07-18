@@ -1,0 +1,101 @@
+id,first_name,last_name,birthdate,incident,incident_date
+1,Dawn,Guzman,12/01/1990,Disturbance,27/07/2023
+2,Stacey,Barker,12/07/1960,Sexual assault,14/03/2023
+3,Kevin,Johnson,06/05/1997,Sexual assault,13/03/2023
+4,Ronald,Nelson,17/10/1976,Sexual assault,01/01/2023
+5,Alexis,Ruiz,25/12/1944,Refused to comply with safety instructions,30/08/2023
+6,Diana,Johnson,15/03/1968,Refused to comply with safety instructions,17/11/2023
+7,Pamela,Terry,06/07/1978,Physical assault,07/04/2023
+8,Michael,Mcgee,28/10/1981,Disturbance,28/02/2023
+9,Ruth,Keller,18/11/1943,Intoxication,10/11/2023
+10,Kevin,Huerta,08/06/1976,Sexual assault,15/05/2023
+11,Megan,Miller,29/11/1951,Verbal assault,26/07/2023
+12,Andrew,Turner,22/02/1982,Disturbance,13/05/2023
+13,Lisa,Hodge,29/07/1993,Refused to comply with safety instructions,09/12/2023
+14,Joel,Ferrell,23/03/1952,Sexual assault,01/05/2023
+15,Yvette,Davis,02/04/1954,Disturbance,27/02/2023
+16,Amanda,Oliver,05/01/1976,Intoxication,21/06/2023
+17,Kelsey,Wilson,30/12/1978,Sexual assault,14/05/2023
+18,Judy,Dennis,10/02/1959,Verbal assault,28/02/2023
+19,Jessica,Gutierrez,17/05/1950,Refused to comply with safety instructions,09/12/2023
+20,Angela,Keller,21/11/2000,Refused to comply with safety instructions,01/10/2023
+21,Douglas,Gonzalez,01/07/1988,Intoxication,31/08/2023
+22,Michael,Parsons,02/03/1997,Sexual assault,26/08/2023
+23,Cheryl,Green,31/10/1952,Sexual assault,23/10/2023
+24,Kayla,Hopkins,19/11/1968,Refused to comply with safety instructions,12/09/2023
+25,Sarah,Garrett,24/05/1976,Refused to comply with safety instructions,04/03/2023
+26,Tiffany,Rodriguez,02/08/1965,Sexual assault,19/09/2023
+27,Taylor,Peters,28/07/1954,Sexual assault,07/12/2023
+28,Patricia,Snyder,25/01/1979,Sexual assault,26/04/2023
+29,Linda,Brooks,05/03/1967,Refused to comply with safety instructions,06/06/2023
+30,David,Ortiz,05/08/1990,Intoxication,22/07/2023
+31,Kenneth,Warren,14/09/1972,Refused to comply with safety instructions,01/09/2023
+32,Brian,Manning,12/09/1981,Sexual assault,20/01/2023
+33,Beth,Coleman,21/08/1942,Physical assault,08/02/2023
+34,Tom,Powell,25/10/2000,Sexual assault,30/08/2023
+35,Sarah,Johnson,13/10/1961,Intoxication,20/05/2023
+36,Courtney,Jackson,24/06/2004,Sexual assault,21/06/2023
+37,Angela,Osborn,14/11/1996,Physical assault,17/09/2023
+38,Justin,Waller,03/08/1982,Disturbance,02/04/2023
+39,Jessica,Simpson,15/05/1959,Intoxication,31/08/2023
+40,Mary,Ayers,04/07/1994,Sexual assault,11/05/2023
+41,Kelly,Carroll,27/03/2004,Verbal assault,29/10/2023
+42,Lori,Murphy,04/02/1991,Intoxication,02/11/2023
+43,Rebecca,Dixon,01/12/2001,Refused to comply with safety instructions,18/04/2023
+44,Nathan,Fisher,27/08/1948,Physical assault,20/10/2023
+45,William,Kim,22/01/1986,Intoxication,18/02/2023
+46,Jonathan,Stephens,28/10/1962,Disturbance,03/09/2023
+47,Gwendolyn,Ali,22/08/1958,Sexual assault,24/01/2023
+48,Elizabeth,Gonzalez,07/05/2001,Physical assault,25/09/2023
+49,Philip,Garcia,03/02/2005,Sexual assault,29/09/2023
+50,Lisa,Romero,25/01/1947,Intoxication,17/03/2023
+51,Andrew,Diaz,26/12/1982,Sexual assault,13/05/2023
+52,Diana,Ruiz,15/07/2001,Intoxication,14/09/2023
+53,Carly,Fox,03/12/2001,Intoxication,20/04/2023
+54,Gregory,Smith,02/10/1955,Physical assault,21/06/2023
+55,Allison,Swanson,21/11/1985,Disturbance,05/09/2023
+56,Jorge,Walker,17/11/2004,Verbal assault,27/09/2023
+57,Richard,Fernandez,20/06/1949,Intoxication,30/08/2023
+58,Chelsea,Mason,04/04/1977,Verbal assault,21/02/2023
+59,Amy,Williams,07/10/1981,Sexual assault,15/01/2023
+60,Scott,Russo,06/04/1968,Refused to comply with safety instructions,15/05/2023
+61,Megan,Davidson,27/06/1957,Verbal assault,06/02/2023
+62,Anthony,West,03/09/1979,Verbal assault,01/01/2023
+63,James,Gregory,24/07/1958,Disturbance,25/03/2023
+64,George,Salazar,28/02/1966,Sexual assault,21/11/2023
+65,Joan,Torres,17/03/1970,Disturbance,03/01/2023
+66,Brittany,Harmon,11/02/1957,Sexual assault,14/12/2023
+67,Paul,Goodman,18/04/2000,Verbal assault,11/03/2023
+68,Hector,Johnson,16/09/2004,Sexual assault,01/05/2023
+69,Tiffany,Fisher,03/06/1946,Intoxication,26/06/2023
+70,Stephanie,Mills,26/07/1967,Physical assault,08/03/2023
+71,Brian,Allen,03/01/2000,Verbal assault,30/08/2023
+72,Zoe,Young,22/10/1973,Verbal assault,22/02/2023
+73,Barbara,Marshall,31/05/1979,Intoxication,29/06/2023
+74,Jessica,Schmidt,14/11/1948,Disturbance,20/12/2023
+75,Katie,Smith,08/12/1955,Physical assault,11/08/2023
+76,Jill,Perkins,17/05/1982,Physical assault,07/10/2023
+77,Rebecca,Norton,09/06/1999,Verbal assault,26/10/2023
+78,Ruth,Pope,26/04/1958,Verbal assault,12/10/2023
+79,Paul,Foster,26/02/1980,Physical assault,26/07/2023
+80,Richard,Dougherty,04/12/1996,Verbal assault,22/11/2023
+81,Sandra,Henderson,17/04/1996,Refused to comply with safety instructions,29/08/2023
+82,Mark,Bolton,28/05/1967,Disturbance,25/07/2023
+83,Brittany,Hanna,12/08/1946,Disturbance,02/05/2023
+84,Natalie,Howard,26/03/1964,Refused to comply with safety instructions,10/02/2023
+85,Sheila,Hughes,01/11/1952,Refused to comply with safety instructions,06/09/2023
+86,Victoria,Butler,24/06/1970,Verbal assault,05/10/2023
+87,Kim,Stewart,18/09/1966,Sexual assault,17/02/2023
+88,Daniel,Ferguson,29/04/1994,Verbal assault,26/11/2023
+89,Sarah,Murphy,13/12/1957,Sexual assault,01/01/2023
+90,Kevin,Mills,27/10/1998,Verbal assault,22/03/2023
+91,Thomas,Reyes,27/03/1960,Sexual assault,13/10/2023
+92,Harry,Hess,24/11/1968,Disturbance,04/08/2023
+93,Kelly,Mcdaniel,04/06/1963,Refused to comply with safety instructions,23/08/2023
+94,Anthony,Wood,02/08/1994,Sexual assault,14/12/2023
+95,Janet,Dunn,22/11/1988,Physical assault,14/12/2023
+96,Chad,Duncan,07/12/1992,Intoxication,22/12/2023
+97,Michael,Williams,11/01/1985,Verbal assault,31/07/2023
+98,Jean,Williams,10/07/1982,Sexual assault,09/09/2023
+99,Laurie,Howard,12/12/1965,Intoxication,27/07/2023
+100,Kristen,Higgins,13/06/1946,Verbal assault,03/08/2023
